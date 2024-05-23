@@ -25,7 +25,7 @@ The following scripts are provided for the Microsoft SQL Server database/collect
 ## Creating Model
 The following model is created in  [Microsoft SQL Server](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads) using [Power BI](https://www.microsoft.com/es-es/power-platform/products/power-bi) for Windows.
 
-The complete specification of the image that contains the application is in the [Dockerfile](Dockerfile)
+The complete specification of the SQL Server that contains the application is in the [SQL Server Guides](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-guides?view=sql-server-ver16)
 ## Building the model.
 Build the model using `Microsoft SQL Server` or `MySQL`, below the commands for using MySQL. More information on how to use it [here](https://dev.mysql.com/doc/). The first version for a standard is frequently used `SQL Server 2022.`
 
